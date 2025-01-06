@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Ahmed Gamal and I'm a Frontend Developer ,from Egypt.</p>
+<p align="left">My name is <b>Ahmed Gamal</b>b> and I'm a Frontend Developer ,from Egypt.</p>
 
 ###
 
