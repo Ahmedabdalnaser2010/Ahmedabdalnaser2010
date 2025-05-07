@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Create Landing Pages , Web App , and any Web page .<br>📚 I'm currently learning many new tools to improve my skills in frontend field and  enhance abilities .<br>🎯 Goals: My Goal is to find an opportunity to showcase my abilities.<a href="https://drive.google.com/file/d/1cbkzpIIHNnYfnvO6tg9P7xENryWKYW1D/view?usp=sharing" target="_blank" >Preview my CV</a></p>
+<p align="left">✨ Create Landing Pages , Web App , and any Web page .<br>📚 I'm currently learning many new tools to improve my skills in frontend field and  enhance abilities .<br>🎯 Goals: My Goal is to find an opportunity to showcase my abilities.<a href="https://drive.google.com/file/d/1cbkzpIIHNnYfnvO6tg9P7xENryWKYW1D/view?usp=sharing" target="_blank" style="text-decoration: none;" >Preview my CV</a></p>
 
 ###
 
