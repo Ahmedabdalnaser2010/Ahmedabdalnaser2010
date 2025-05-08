@@ -14,7 +14,7 @@
 
 ###
 
-<a href="https://drive.google.com/file/d/1jDM3Nz_Rbx7rpthDGBpgJOlId5iNF5Hq/view?usp=sharing" target="_blank"  >Preview my CV</a>
+<a href="https://drive.google.com/file/d/1JkYYcqJeQEkePtFCml_rRKGrBEsupa7-/view?usp=sharing" target="_blank"  >Preview my CV</a>
 
 ###
 
